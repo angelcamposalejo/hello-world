@@ -1,2 +1,3 @@
 # hello-world
-first repository
+Hi friends
+I like to programming
